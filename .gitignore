@@ -14,8 +14,9 @@ project/plugins/project/
 .cache
 .lib/
 
+#idea
+.idea
+
 ### Scala ###
 *.class
 *.log
-
-# End of https://www.gitignore.io/api/sbt,scala
